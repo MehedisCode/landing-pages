@@ -1,7 +1,2 @@
 # directories 
 node_modules/
-
-# files
-package-lock.json
-package.json
-tailwind.config.js
